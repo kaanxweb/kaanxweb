@@ -4,4 +4,4 @@
 I will continue to share projects that I think can benefit the community on my github account.
 
 -:pushpin: Since I have a tendency to be obsessive about organization when writing code, you will probably see well-organized code in most of my repos. You can take the codes you need from my repos. 
-Don't forget to star my project!
+Don't forget to star projects that you like and find useful!
