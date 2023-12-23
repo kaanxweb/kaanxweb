@@ -6,7 +6,7 @@
         alt="kaanxweb" /> </p>
 <br>
 
-- 🌱 I’m currently learning **Business Development** and **UI/UX**
+- 🌱 I’m currently learning **Business Development**, **Arduino** and **UI/UX**
 
 <hr style="margin: 20px 0px">
 
