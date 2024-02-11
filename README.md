@@ -10,7 +10,7 @@
 
 <hr style="margin: 20px 0px">
 
-### Connect with me:
+### Social:
 
 <p align="left">
     <a href="https://twitter.com/kaanxpulator" target="blank">
