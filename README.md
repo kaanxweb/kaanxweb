@@ -1,4 +1,4 @@
-<h1 align="center">I'm Kaan</h1>
+<h1 align="center">Kaan</h1>
 <br>
 
 <p align="left"> <img
